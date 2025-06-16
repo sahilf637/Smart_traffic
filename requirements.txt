@@ -1,0 +1,13 @@
+flask
+flask-cors
+ultralytics
+opencv-python
+torch
+pandas
+numpy
+matplotlib
+streamlit
+numpy
+folium
+streamlit-folium
+plotly
